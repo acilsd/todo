@@ -4,5 +4,5 @@
 ## Info
 
 ```bash
-Just a simple todolist implemented with MVC pattern + ES6 + babel + webpack
+Just a simple todolist implemented in MVC pattern + ES6 + babel + webpack
 ```
